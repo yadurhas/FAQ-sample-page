@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./myDesign/webapp.png)
+![](./faq-accordion-main/myDesign/webapp.png)
 
 ### Links
 
