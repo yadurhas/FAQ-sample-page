@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Web Page](https://html-preview.github.io/?url=https://github.com/yadurhas/FAQ-sample-page/blob/main/faq-accordion-main/index.html)
+- Solution URL:
 
 ## My process
 
