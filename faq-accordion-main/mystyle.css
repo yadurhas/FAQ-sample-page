@@ -20,12 +20,17 @@
 
 .question{
     font-weight: 600;
-    margin:auto 0px;
+    margin:auto 5px;
 }
 
 .question_container:hover{
     color: blueviolet;
     cursor: pointer;
+}
+
+.question_container:focus-visible{
+    color:blueviolet;
+    /*outline: none;*/
 }
 
 .symbol{
@@ -55,6 +60,7 @@
 .answer{
     display: none;
     padding-top: 10px;
+    margin: 0px 5px;
 }
 
 .title {
