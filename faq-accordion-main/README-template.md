@@ -2,18 +2,6 @@
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [My Learnings](#my-learnings)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-- [Author](#author)
-
 ## Overview
 
 ### The challenge
